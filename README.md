@@ -1,7 +1,8 @@
 # 📊 Evaluasi Dua Pertandingan Mobile Legends Tim [ERM]
 
 ## 📅 Pertandingan 1 & 2 (31 Juli 2025)
-
+![WhatsApp Image 2025-07-31 at 18 26 16_a284a61b](https://github.com/user-attachments/assets/3d348919-0cee-410c-afb4-4ac4f6eb3fc7)
+![WhatsApp Image 2025-07-31 at 18 26 17_6706c9d3](https://github.com/user-attachments/assets/f95a20bf-71cf-4b1d-a64f-1cf6f9a74e67)
 ---
 
 ## Ringkasan Statistik
