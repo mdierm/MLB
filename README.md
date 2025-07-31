@@ -20,7 +20,7 @@
 
 ## Grafik Statistik Tim
 
-![Statistik Tim per Match]<img width="1600" height="1000" alt="statistik_tim_per_match" src="https://github.com/user-attachments/assets/d1d21bfe-4e0d-4f96-874d-db312237d2a2" />
+[Statistik Tim per Match]<img width="1600" height="1000" alt="statistik_tim_per_match" src="https://github.com/user-attachments/assets/d1d21bfe-4e0d-4f96-874d-db312237d2a2" />
 
 
 ---
