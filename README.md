@@ -63,6 +63,8 @@
 
 Tim [ERM] telah menunjukan performa solid di dua pertandingan, baik dari segi makro (rotasi, objektif) maupun mikro (mechanic individu). Dengan sedikit penyesuaian pada disiplin bermain dan variasi strategi, tim siap bersaing di level lebih tinggi.
 
+## **Saran**
+
 **1. Early game execution tim sudah sangat baik.**
 **2. Death rate naik saat snowball, jadi perlu lebih disiplin saat sudah unggul (hindari terlalu maju tanpa visi/backup).**
 **3. Assist turun di match kedua, berarti rotasi/backup atau follow-up war perlu ditingkatkan.**
@@ -73,6 +75,7 @@ Tim [ERM] telah menunjukan performa solid di dua pertandingan, baik dari segi ma
 > — **George Bernard Shaw**
 
 ---
+
 
 
 
