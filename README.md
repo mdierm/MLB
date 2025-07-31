@@ -1,4 +1,4 @@
-# 📊 Evaluasi Dua Pertandingan Mobile Legends Tim [Nama Tim]
+# 📊 Evaluasi Dua Pertandingan Mobile Legends Tim [ERM]
 
 ## 📅 Pertandingan 1 & 2 (31 Juli 2025)
 
