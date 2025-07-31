@@ -60,7 +60,7 @@
 
 ## Kesimpulan
 
-Tim [Nama Tim] telah menunjukan performa solid di dua pertandingan, baik dari segi makro (rotasi, objektif) maupun mikro (mechanic individu). Dengan sedikit penyesuaian pada disiplin bermain dan variasi strategi, tim siap bersaing di level lebih tinggi.
+Tim [ERM] telah menunjukan performa solid di dua pertandingan, baik dari segi makro (rotasi, objektif) maupun mikro (mechanic individu). Dengan sedikit penyesuaian pada disiplin bermain dan variasi strategi, tim siap bersaing di level lebih tinggi.
 
 ---
 
@@ -68,8 +68,4 @@ Tim [Nama Tim] telah menunjukan performa solid di dua pertandingan, baik dari se
 > — **George Bernard Shaw**
 
 ---
-
-**Catatan:**  
-- Jika ingin menambah grafik/analisis individu (KDA per role, damage dealt, dsb), tambahkan tabel dan gambar sesuai kebutuhan.
-- Upload file `statistik_tim_per_match.png` ke folder repository yang sama agar gambar muncul di README.
 
